@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847807480995",
+    "project_id": "e-grocery-auth",
+    "storage_bucket": "e-grocery-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847807480995:android:c35412ef52e60677dcab16",
+        "android_client_info": {
+          "package_name": "com.example.grocery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847807480995-djjpurnidtkgjn7sbj1dk6tbesi4ku2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT3750q5GJ0gaPm_QOXaG18Pvs_ybe6DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847807480995-djjpurnidtkgjn7sbj1dk6tbesi4ku2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
